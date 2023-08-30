@@ -210,26 +210,25 @@ print(le.inverse_transform(x_single_prediction))
 ```
 ### dataset information
 
-![output](https://github.com/Hemapriya-2004/nn-classification/blob/main/d2.png)
+![output](
 
 ## OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-![output](https://github.com/Hemapriya-2004/nn-classification/blob/main/d3.png)
+![output](
 
 ### Classification Report
 
-![output](https://github.com/Hemapriya-2004/nn-classification/blob/main/d4.png)
+![output](
 
 ### Confusion Matrix
 
-![output](https://github.com/Hemapriya-2004/nn-classification/blob/main/d5.png)v
+![output](
 
 ### New Sample Data Prediction
 
-![output](https://github.com/Hemapriya-2004/nn-classification/blob/main/d6.png)
-
+![output](
 
 ## RESULT
 A neural network classification model is developed for the given dataset.
