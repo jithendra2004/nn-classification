@@ -14,7 +14,7 @@ You are required to help the manager to predict the right group of the new custo
 
 ## Neural Network Model
 
-![output](https://github.com/Hemapriya-2004/nn-classification/blob/main/d1.png)
+![output](https://github.com/jithendra2004/nn-classification/blob/main/d1.png)
 
 ## DESIGN STEPS
 
@@ -42,8 +42,8 @@ STEP 11:Using the DL model predict for some random inputs
 
 ## PROGRAM
 ```
-Developed by: R Hemapriya
-Reg no:212221230036
+Developed by: V A Jithendra
+Reg no:212221230043
 ```
 ```
 import pandas as pd
@@ -210,25 +210,25 @@ print(le.inverse_transform(x_single_prediction))
 ```
 ### dataset information
 
-![output](
+![output](https://github.com/jithendra2004/nn-classification/blob/main/d2.png)
 
 ## OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-![output](
+![output](https://github.com/jithendra2004/nn-classification/blob/main/d3.png)
 
 ### Classification Report
 
-![output](
+![output](https://github.com/jithendra2004/nn-classification/blob/main/d4.png)
 
 ### Confusion Matrix
 
-![output](
+![output](https://github.com/jithendra2004/nn-classification/blob/main/d5.png)
 
 ### New Sample Data Prediction
 
-![output](
+![output](https://github.com/jithendra2004/nn-classification/blob/main/d6.png)
 
 ## RESULT
 A neural network classification model is developed for the given dataset.
